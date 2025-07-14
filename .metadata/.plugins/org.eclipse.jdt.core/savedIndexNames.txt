@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\2025\FSJRTP - 1\Spring Framewok\.metadata\.plugins\org.eclipse.jdt.core
+1215324444.index
+1006879535.index
+1865797976.index
+310626259.index
+2602406932.index
+3265710269.index
+3803894794.index
+4148908748.index
+3646703611.index
+1276138743.index
